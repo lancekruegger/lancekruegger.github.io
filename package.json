@@ -1,0 +1,22 @@
+{
+  "name": "lancekruegger.github.io",
+  "version": "1.0.0",
+  "description": "Github page source",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lancekruegger/lancekruegger.github.io.git"
+  },
+  "author": "Lance Ruegger",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^6.0.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
